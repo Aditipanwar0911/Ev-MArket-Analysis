@@ -106,8 +106,8 @@ The Tableau dashboards and story depend on their corresponding published Tableau
 **Live Website:**
 https://ev-market-analysis-1xst.onrender.com
 
-**GitHub Repository:**
-https://github.com/Aditipanwar0911/Ev-MArket-Analysis
+**Demo link**
+https://drive.google.com/file/d/1Uz5pwepNkbHbPMyvblzeD8V1NoEJmClo/view?usp=drivesdk
 
 ## 7. Key Areas of Analysis
 
